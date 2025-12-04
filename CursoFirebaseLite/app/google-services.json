@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "766452839816",
+    "firebase_url": "https://fir-lite-df264-default-rtdb.firebaseio.com",
+    "project_id": "fir-lite-df264",
+    "storage_bucket": "fir-lite-df264.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766452839816:android:8b0dc5290fb41d6776b63d",
+        "android_client_info": {
+          "package_name": "com.example.cursofirebaselite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcNs9VcM5T3EfwLra9QjDODS4OFj4bpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
